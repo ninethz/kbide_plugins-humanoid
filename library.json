@@ -1,0 +1,17 @@
+{
+  "name" : "Humanoid",
+  "title": "Humanoid",
+  "keywords": "servo,ide, esp32, ultrasonic",
+  "category":"",
+  "description": "Uesing for humaniod robot",
+  "git": "https://github.com/ninethz/kbide_plugins-humanoid",
+  "author": "CS RMUTT",
+  "email": "",
+  "url": "http://www.kbide.org",
+  "version": "0.0.1",
+  "board" : "",
+  "platform": ["arduino-esp32","arduino-avr"],
+  "license": "",
+  "image" : "/static/Display1.jpg",
+  "homepage": "http://www.kbide.org"
+}
